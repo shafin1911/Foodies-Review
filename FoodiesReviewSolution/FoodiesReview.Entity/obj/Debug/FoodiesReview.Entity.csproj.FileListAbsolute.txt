@@ -1,0 +1,5 @@
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.Entity\bin\Debug\FoodiesReview.Entity.dll
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.Entity\bin\Debug\FoodiesReview.Entity.pdb
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.Entity\obj\Debug\FoodiesReview.Entity.dll
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.Entity\obj\Debug\FoodiesReview.Entity.pdb
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.Entity\obj\Debug\FoodiesReview.Entity.csprojResolveAssemblyReference.cache

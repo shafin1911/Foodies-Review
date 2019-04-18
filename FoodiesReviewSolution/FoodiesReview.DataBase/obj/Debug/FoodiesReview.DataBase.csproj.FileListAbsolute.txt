@@ -1,0 +1,8 @@
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\bin\Debug\FoodiesReview.DataBase.dll.config
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\bin\Debug\FoodiesReview.DataBase.dll
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\bin\Debug\FoodiesReview.DataBase.pdb
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\bin\Debug\FoodiesReview.Entity.dll
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\bin\Debug\FoodiesReview.Entity.pdb
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\obj\Debug\FoodiesReview.DataBase.csprojResolveAssemblyReference.cache
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\obj\Debug\FoodiesReview.DataBase.dll
+G:\CSpro\FoodiesReview\FoodiesReviewSolution\FoodiesReview.DataBase\obj\Debug\FoodiesReview.DataBase.pdb
